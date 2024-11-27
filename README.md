@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rampati Varaprasad</h1>
 <h3 align="center">A passionate Java Full Stack developer from Hyderabad</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://pixabay.com/gifs/man-work-laptop-business-computer-1835/">
+<img align ="right" alt ="Coding" width ="400" src ="https://dribbble.com/shots/3848914-Programmer-Thomas/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rampativaraprasad&label=Profile%20views&color=0e75b6&style=flat" alt="rampativaraprasad" /> </p>
 
